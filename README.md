@@ -83,20 +83,6 @@ python scripts/parse_items.py
 }
 ```
 
-### Формат с городом
-```json
-{
-  "id": 123456,
-  "name": "НАЗВАНИЕ Товара 500г",
-  "regular_price": 199.99,
-  "promo_price": 149.99,
-  "brand": "НАЗВАНИЕ",
-  "in_stock": 10,
-  "city": "Москва",
-  "store_id": 789
-}
-```
-
 ## Требования
 
 - Python 3.7+
