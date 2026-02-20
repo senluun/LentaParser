@@ -1,0 +1,902 @@
+[
+  {
+    "id": 746886,
+    "name": "Напиток TANBING Кофе холодный эспрессо, без сахара, 0.27л",
+    "regular_price": 26999,
+    "promo_price": 24999,
+    "brand": "TANBING",
+    "in_stock": 14,
+    "available": true
+  },
+  {
+    "id": 751612,
+    "name": "Кофе холодный TANBING Классический латте, 270мл",
+    "regular_price": 26999,
+    "promo_price": 24999,
+    "brand": "TANBING",
+    "in_stock": 5,
+    "available": true
+  },
+  {
+    "id": 385421,
+    "name": "Вино безалкогольное PETER MERTES SCHLOSS SOMMERAU красное сладкое, 0.75л",
+    "regular_price": 79999,
+    "promo_price": 79999,
+    "brand": "PETER",
+    "in_stock": 13,
+    "available": true
+  },
+  {
+    "id": 618339,
+    "name": "Напиток безалкогольный КОДОРНЬЮ зеро, 0.75л",
+    "regular_price": 199900,
+    "promo_price": 199900,
+    "brand": "КОДОРНЬЮ",
+    "in_stock": 10,
+    "available": true
+  },
+  {
+    "id": 499256,
+    "name": "Вода питьевая AQUA MINERALE негазированная вода, 0.5л",
+    "regular_price": 8999,
+    "promo_price": 4999,
+    "brand": "AQUA",
+    "in_stock": 135,
+    "available": true
+  },
+  {
+    "id": 745425,
+    "name": "Напиток BUBBLES OFF LOVE Чайный напиток со вкусом личи с желейными шариками негазированный, 0.32л",
+    "regular_price": 19999,
+    "promo_price": 10499,
+    "brand": "BUBBLES",
+    "in_stock": 2,
+    "available": true
+  },
+  {
+    "id": 438359,
+    "name": "Вода минеральная ПСЫЖ природная лечебно-столовая газированная, 1л",
+    "regular_price": 6999,
+    "promo_price": 6999,
+    "brand": "ПСЫЖ",
+    "in_stock": 262,
+    "available": true
+  },
+  {
+    "id": 715473,
+    "name": "Вино безалкогольное DEINHARD GREEN LABEL Рислинг белое полусладкое, 0.75л",
+    "regular_price": 119900,
+    "promo_price": 119900,
+    "brand": "DEINHARD",
+    "in_stock": 3,
+    "available": true
+  },
+  {
+    "id": 719658,
+    "name": "Напиток FRESH BAR со вкусом кола, банан сильногазированный, 0.48л",
+    "regular_price": 6999,
+    "promo_price": 4999,
+    "brand": "FRESH",
+    "in_stock": 2,
+    "available": true
+  },
+  {
+    "id": 674112,
+    "name": "Напиток ДОБРЫЙ Cola без сахара сильногазированный, 1.5л",
+    "regular_price": 17499,
+    "promo_price": 12999,
+    "brand": "ДОБРЫЙ",
+    "in_stock": 14,
+    "available": true
+  },
+  {
+    "id": 794047,
+    "name": "Напиток MJOLNIR Меда Лимон, имбирь сильногазированный, 0.33л",
+    "regular_price": 13999,
+    "promo_price": 9999,
+    "brand": "MJOLNIR",
+    "in_stock": 1,
+    "available": true
+  },
+  {
+    "id": 47182,
+    "name": "Вода питьевая СВЯТОЙ ИСТОЧНИК негазированная, 1.5л",
+    "regular_price": 6999,
+    "promo_price": 6499,
+    "brand": "СВЯТОЙ",
+    "in_stock": 180,
+    "available": true
+  },
+  {
+    "id": 177471,
+    "name": "Сок ЛЕНТА Гранатовый прямого отжима, 1л",
+    "regular_price": 16999,
+    "promo_price": 13999,
+    "brand": "ЛЕНТА",
+    "in_stock": 20,
+    "available": true
+  },
+  {
+    "id": 792702,
+    "name": "Напиток АБРАУ Индиан Тоник сильногазированный, 0.375л",
+    "regular_price": 17999,
+    "promo_price": 14999,
+    "brand": "АБРАУ",
+    "in_stock": 5,
+    "available": true
+  },
+  {
+    "id": 90268,
+    "name": "Вода минеральная ПИЛИГРИМ столовая талая негазированная, 0.5л",
+    "regular_price": 4499,
+    "promo_price": 3499,
+    "brand": "ПИЛИГРИМ",
+    "in_stock": 5,
+    "available": true
+  },
+  {
+    "id": 496109,
+    "name": "Сок САДЫ ПРИДОНЬЯ Яблоко, вишня осветленный восстановленный, 1л",
+    "regular_price": 13999,
+    "promo_price": 9999,
+    "brand": "САДЫ",
+    "in_stock": 1,
+    "available": true
+  },
+  {
+    "id": 747872,
+    "name": "Вода питьевая MONTE DEAQUA негазированная, 5л",
+    "regular_price": 7999,
+    "promo_price": 7999,
+    "brand": "MONTE",
+    "in_stock": 25,
+    "available": true
+  },
+  {
+    "id": 793036,
+    "name": "Напиток безалкогольный ЛИТ ЭНЕРДЖИ Энерг. Со Вкусом Манго И Кокос",
+    "regular_price": 11999,
+    "promo_price": 10999,
+    "brand": "ЛИТ",
+    "in_stock": 41,
+    "available": true
+  },
+  {
+    "id": 309510,
+    "name": "Вода питьевая СВЯТОЙ ИСТОЧНИК негазированная, 5л",
+    "regular_price": 16499,
+    "promo_price": 14999,
+    "brand": "СВЯТОЙ",
+    "in_stock": 44,
+    "available": true
+  },
+  {
+    "id": 793007,
+    "name": "Напиток безалкогольный SPRITE газ. ПЭТ",
+    "regular_price": 8999,
+    "promo_price": 7499,
+    "brand": "SPRITE",
+    "in_stock": 3,
+    "available": true
+  },
+  {
+    "id": 712555,
+    "name": "Сок детский ВАУ МЯУ! Яблочный восстановленный осветленный, 0.2л",
+    "regular_price": 3499,
+    "promo_price": 3499,
+    "brand": "ВАУ",
+    "in_stock": 26,
+    "available": true
+  },
+  {
+    "id": 572380,
+    "name": "Вода питьевая ЧЕРНОГОЛОВКА негазированная, 5л",
+    "regular_price": 13999,
+    "promo_price": 11499,
+    "brand": "ЧЕРНОГОЛОВКА",
+    "in_stock": 40,
+    "available": true
+  },
+  {
+    "id": 743819,
+    "name": "Напиток ДОБРЫЙ Кола низкокалорийный газированный, 1.5л",
+    "regular_price": 17499,
+    "promo_price": 12999,
+    "brand": "ДОБРЫЙ",
+    "in_stock": 12,
+    "available": true
+  },
+  {
+    "id": 741575,
+    "name": "Напиток LAPOCHKA Арбуз, мелисса газированный, 0.33л",
+    "regular_price": 17999,
+    "promo_price": 14999,
+    "brand": "LAPOCHKA",
+    "in_stock": 17,
+    "available": true
+  },
+  {
+    "id": 41713,
+    "name": "Вода питьевая СВЯТОЙ ИСТОЧНИК газированная, 1.5л",
+    "regular_price": 6999,
+    "promo_price": 6499,
+    "brand": "СВЯТОЙ",
+    "in_stock": 205,
+    "available": true
+  },
+  {
+    "id": 29895,
+    "name": "Вода минеральная НОВОТЕРСКАЯ ЦЕЛЕБНАЯ лечебно-столовая газированная, 1.5л",
+    "regular_price": 10999,
+    "promo_price": 9999,
+    "brand": "НОВОТЕРСКАЯ",
+    "in_stock": 13,
+    "available": true
+  },
+  {
+    "id": 794046,
+    "name": "Напиток MJOLNIR Меда Клубника, малина сильногазированный, 0.33л",
+    "regular_price": 13999,
+    "promo_price": 9999,
+    "brand": "MJOLNIR",
+    "in_stock": 24,
+    "available": true
+  },
+  {
+    "id": 884068,
+    "name": "Напиток энергетический GORILLA Green Boost тонизирующий газированный, 0.45л",
+    "regular_price": 11499,
+    "promo_price": 9499,
+    "brand": "GORILLA",
+    "in_stock": 37,
+    "available": true
+  },
+  {
+    "id": 654788,
+    "name": "Напиток FRESH BAR Киви Микс сильногазированный, 0.48L",
+    "regular_price": 6999,
+    "promo_price": 5999,
+    "brand": "FRESH",
+    "in_stock": 6,
+    "available": true
+  },
+  {
+    "id": 883228,
+    "name": "Лимонад ЧЕРНОГОЛОВКА Мохито Лайм, мята, 0.45л",
+    "regular_price": 8999,
+    "promo_price": 7499,
+    "brand": "ЧЕРНОГОЛОВКА",
+    "in_stock": 36,
+    "available": true
+  },
+  {
+    "id": 118230,
+    "name": "Вода питьевая СЕНЕЖСКАЯ газированная, 1.5л",
+    "regular_price": 4999,
+    "promo_price": 4499,
+    "brand": "СЕНЕЖСКАЯ",
+    "in_stock": 17,
+    "available": true
+  },
+  {
+    "id": 885178,
+    "name": "Напиток BOMBBAR L-Карнитин Гуарана Джин-тоник, 0.45л",
+    "regular_price": 14999,
+    "promo_price": 12999,
+    "brand": "BOMBBAR",
+    "in_stock": 12,
+    "available": true
+  },
+  {
+    "id": 523868,
+    "name": "Вода питьевая СВЯТОЙ ИСТОЧНИК газированная, 0.33л",
+    "regular_price": 3499,
+    "promo_price": 3199,
+    "brand": "СВЯТОЙ",
+    "in_stock": 21,
+    "available": true
+  },
+  {
+    "id": 743470,
+    "name": "Вино безалкогольное JP.CHENET Каберне Сира красное сладкое, 0.75л",
+    "regular_price": 99999,
+    "promo_price": 99999,
+    "brand": "JP.CHENET",
+    "in_stock": 1,
+    "available": true
+  },
+  {
+    "id": 884027,
+    "name": "Напиток BOMBBAR L-Карнитин Гуарана Кола, 0.45л",
+    "regular_price": 14999,
+    "promo_price": 12999,
+    "brand": "BOMBBAR",
+    "in_stock": 20,
+    "available": true
+  },
+  {
+    "id": 434950,
+    "name": "Напиток FRESH BAR Alfa cola сильногазированный, 0.48л",
+    "regular_price": 6999,
+    "promo_price": 5999,
+    "brand": "FRESH",
+    "in_stock": 13,
+    "available": true
+  },
+  {
+    "id": 745732,
+    "name": "Напиток энергетический TORNADO Max Energy Bubble, 0.45л",
+    "regular_price": 9999,
+    "promo_price": 7999,
+    "brand": "TORNADO",
+    "in_stock": 7,
+    "available": true
+  },
+  {
+    "id": 792667,
+    "name": "Напиток БОЧКАРИ Кола классик сильногазированный, 1.3л",
+    "regular_price": 12999,
+    "promo_price": 10999,
+    "brand": "БОЧКАРИ",
+    "in_stock": 2,
+    "available": true
+  },
+  {
+    "id": 710135,
+    "name": "Напиток ДОБРЫЙ Cola Малина сильногазированный, 0.5л",
+    "regular_price": 10499,
+    "promo_price": 7999,
+    "brand": "ДОБРЫЙ",
+    "in_stock": 8,
+    "available": true
+  },
+  {
+    "id": 747866,
+    "name": "Напиток VULKAN Оригинальный тонизирующий газированный, 0.45л",
+    "regular_price": 11999,
+    "promo_price": 9999,
+    "brand": "VULKAN",
+    "in_stock": 35,
+    "available": true
+  },
+  {
+    "id": 745730,
+    "name": "Напиток энергетический TORNADO Max Energy Razbery, 0.45л",
+    "regular_price": 9999,
+    "promo_price": 7999,
+    "brand": "TORNADO",
+    "in_stock": 12,
+    "available": true
+  },
+  {
+    "id": 743471,
+    "name": "Вино безалкогольное JP.CHENET Шардоне белое сладкое, 0.75л",
+    "regular_price": 99999,
+    "promo_price": 99999,
+    "brand": "JP.CHENET",
+    "in_stock": 4,
+    "available": true
+  },
+  {
+    "id": 739265,
+    "name": "Напиток ФРУСТАЙЛ Огненное Манго со вкусом манго и перца табаско сильногазированный, 1л",
+    "regular_price": 14999,
+    "promo_price": 7499,
+    "brand": "ФРУСТАЙЛ",
+    "in_stock": 4,
+    "available": true
+  },
+  {
+    "id": 586517,
+    "name": "Сок ДОБРЫЙ Active kid Яблочный, 0.2л",
+    "regular_price": 3999,
+    "promo_price": 3999,
+    "brand": "ДОБРЫЙ",
+    "in_stock": 15,
+    "available": true
+  },
+  {
+    "id": 272045,
+    "name": "Сок МАЛЫШАМ Яблоко осветленный, с 4 месяцев, 200мл",
+    "regular_price": 5999,
+    "promo_price": 2999,
+    "brand": "МАЛЫШАМ",
+    "in_stock": 15,
+    "available": true
+  },
+  {
+    "id": 747867,
+    "name": "Напиток VULKAN Без сахара тонизирующий газированный, 0.45л",
+    "regular_price": 11999,
+    "promo_price": 9999,
+    "brand": "VULKAN",
+    "in_stock": 42,
+    "available": true
+  },
+  {
+    "id": 768275,
+    "name": "Напиток сокосодержащий МОЯ СЕМЬЯ Яблочный микс, 200мл",
+    "regular_price": 2799,
+    "promo_price": 2799,
+    "brand": "МОЯ",
+    "in_stock": 18,
+    "available": true
+  },
+  {
+    "id": 385420,
+    "name": "Вино безалкогольное PETER MERTES SCHLOSS SOMMERAU белое сладкое, 0.75л",
+    "regular_price": 79999,
+    "promo_price": 79999,
+    "brand": "PETER",
+    "in_stock": 12,
+    "available": true
+  },
+  {
+    "id": 586623,
+    "name": "Сок ДОБРЫЙ Active kid Яблоко, вишня, 0.2л",
+    "regular_price": 3999,
+    "promo_price": 3999,
+    "brand": "ДОБРЫЙ",
+    "in_stock": 18,
+    "available": true
+  },
+  {
+    "id": 741264,
+    "name": "Напиток ДОБРЫЙ Апельсин с витамином С низкокалорийный сильногазированный, 0.3л",
+    "regular_price": 6999,
+    "promo_price": 5999,
+    "brand": "ДОБРЫЙ",
+    "in_stock": 19,
+    "available": true
+  },
+  {
+    "id": 745376,
+    "name": "Напиток энергетический TORNADO Max Energy Mango, 0.45л",
+    "regular_price": 9999,
+    "promo_price": 7999,
+    "brand": "TORNADO",
+    "in_stock": 12,
+    "available": true
+  },
+  {
+    "id": 741785,
+    "name": "Напиток сокосодержащий J7 Frustyle из апельсинов, кактуса и лайма с мякотью, 0.385л",
+    "regular_price": 12999,
+    "promo_price": 7999,
+    "brand": "J7",
+    "in_stock": 8,
+    "available": true
+  },
+  {
+    "id": 77894,
+    "name": "Сок САДЫ ПРИДОНЬЯ Яблочный прямого отжима осветленный, 1л",
+    "regular_price": 13999,
+    "promo_price": 10499,
+    "brand": "САДЫ",
+    "in_stock": 10,
+    "available": true
+  },
+  {
+    "id": 668158,
+    "name": "Напиток ФЛЭШ АП MAX Мятный лайм сильногазированный, 1л",
+    "regular_price": 13499,
+    "promo_price": 12499,
+    "brand": "ФЛЭШ",
+    "in_stock": 13,
+    "available": true
+  },
+  {
+    "id": 741733,
+    "name": "Напиток ЧЕРНОГОЛОВКА Кола Вишня, миндаль газированный, 0.33л",
+    "regular_price": 7499,
+    "promo_price": 5999,
+    "brand": "ЧЕРНОГОЛОВКА",
+    "in_stock": 7,
+    "available": true
+  },
+  {
+    "id": 355258,
+    "name": "Напиток 365 ДНЕЙ Дюшес газированный, 0.5л",
+    "regular_price": 2699,
+    "promo_price": 2699,
+    "brand": "ДНЕЙ",
+    "in_stock": 10,
+    "available": true
+  },
+  {
+    "id": 731289,
+    "name": "Вода питьевая RARE природная родниковая негазированная, 0.5л",
+    "regular_price": 11999,
+    "promo_price": 10999,
+    "brand": "RARE",
+    "in_stock": 9,
+    "available": true
+  },
+  {
+    "id": 741263,
+    "name": "Напиток ДОБРЫЙ Лимон, лайм низкокалорийный сильногазированный, 0.3л",
+    "regular_price": 6999,
+    "promo_price": 5999,
+    "brand": "ДОБРЫЙ",
+    "in_stock": 26,
+    "available": true
+  },
+  {
+    "id": 745574,
+    "name": "Напиток SCHWEPPES Mojito газированный, 0.33л",
+    "regular_price": 16499,
+    "promo_price": 14999,
+    "brand": "SCHWEPPES",
+    "in_stock": 13,
+    "available": true
+  },
+  {
+    "id": 725412,
+    "name": "Смузи ЛЕНТА LIFE Банан, апельсин, кокос, 0.3л",
+    "regular_price": 14999,
+    "promo_price": 12999,
+    "brand": "ЛЕНТА",
+    "in_stock": 21,
+    "available": true
+  },
+  {
+    "id": 582253,
+    "name": "Вода питьевая TASSAY негазированная, 0.5л",
+    "regular_price": 5999,
+    "promo_price": 4999,
+    "brand": "TASSAY",
+    "in_stock": 79,
+    "available": true
+  },
+  {
+    "id": 883231,
+    "name": "Лимонад ЧЕРНОГОЛОВКА Мохито Клубника, манго, 1л",
+    "regular_price": 9999,
+    "promo_price": 8499,
+    "brand": "ЧЕРНОГОЛОВКА",
+    "in_stock": 43,
+    "available": true
+  },
+  {
+    "id": 494476,
+    "name": "Сок IL PRIMO Яблочный из зеленых яблок осветленный восстановленный, 0.2л",
+    "regular_price": 6999,
+    "promo_price": 4999,
+    "brand": "IL",
+    "in_stock": 5,
+    "available": true
+  },
+  {
+    "id": 14724,
+    "name": "Вода минеральная PERRIER природная столовая пресная газированная, 0.33л",
+    "regular_price": 23999,
+    "promo_price": 19999,
+    "brand": "PERRIER",
+    "in_stock": 5,
+    "available": true
+  },
+  {
+    "id": 884062,
+    "name": "Напиток энергетический RED BULL Peach Edition, 0.25л",
+    "regular_price": 15999,
+    "promo_price": 13499,
+    "brand": "RED",
+    "in_stock": 69,
+    "available": true
+  },
+  {
+    "id": 792698,
+    "name": "Напиток LAPOCHKA Т Банк сильногазированный 0.33л",
+    "regular_price": 17999,
+    "promo_price": 15999,
+    "brand": "LAPOCHKA",
+    "in_stock": 17,
+    "available": true
+  },
+  {
+    "id": 733961,
+    "name": "Напиток AQUA MINERALE Актив Клубника и мята негазированная, 0.5л",
+    "regular_price": 9999,
+    "promo_price": 8499,
+    "brand": "AQUA",
+    "in_stock": 13,
+    "available": true
+  },
+  {
+    "id": 637537,
+    "name": "Напиток COOL COLA, 0.5л",
+    "regular_price": 7499,
+    "promo_price": 5999,
+    "brand": "COOL",
+    "in_stock": 3,
+    "available": true
+  },
+  {
+    "id": 717395,
+    "name": "Напиток энергетический VOLT ENERGY без сахара газированный, 0.45л",
+    "regular_price": 11999,
+    "promo_price": 9499,
+    "brand": "VOLT",
+    "in_stock": 16,
+    "available": true
+  },
+  {
+    "id": 770114,
+    "name": "Напиток DRIVE ME Макс с кофеином, ароматизированный  сильногазированный, 0.449л",
+    "regular_price": 9999,
+    "promo_price": 7999,
+    "brand": "DRIVE",
+    "in_stock": 9,
+    "available": true
+  },
+  {
+    "id": 886800,
+    "name": "Напиток EVERVESS Кола без сахара газированный, 1.5л",
+    "regular_price": 19999,
+    "promo_price": 19999,
+    "brand": "EVERVESS",
+    "in_stock": 5,
+    "available": true
+  },
+  {
+    "id": 745575,
+    "name": "Напиток SCHWEPPES Bitter Lemon газированный, 0.33л",
+    "regular_price": 16499,
+    "promo_price": 14999,
+    "brand": "SCHWEPPES",
+    "in_stock": 26,
+    "available": true
+  },
+  {
+    "id": 792703,
+    "name": "Напиток АБРАУ Индиан Тоник Zero сильногазированный, 0.375л",
+    "regular_price": 17999,
+    "promo_price": 14999,
+    "brand": "АБРАУ",
+    "in_stock": 4,
+    "available": true
+  },
+  {
+    "id": 735245,
+    "name": "Вода минеральная ЭДЕЛЬВЕЙС лечебно-столовая газированная, 1л",
+    "regular_price": 6999,
+    "promo_price": 5999,
+    "brand": "ЭДЕЛЬВЕЙС",
+    "in_stock": 8,
+    "available": true
+  },
+  {
+    "id": 584409,
+    "name": "Сок охлажденный J7 Апельсиновый с мякотью, 300мл",
+    "regular_price": 12999,
+    "promo_price": 11999,
+    "brand": "J7",
+    "in_stock": 6,
+    "available": true
+  },
+  {
+    "id": 741262,
+    "name": "Напиток энергетический GORILLA Черри-берри тонизирующий газированный, 0.45л",
+    "regular_price": 11999,
+    "promo_price": 9499,
+    "brand": "GORILLA",
+    "in_stock": 11,
+    "available": true
+  },
+  {
+    "id": 581391,
+    "name": "Вода минеральная ЕССЕНТУКИ №4 лечебно-столовая газированная ГОСТ, 1л",
+    "regular_price": 11499,
+    "promo_price": 11499,
+    "brand": "ЕССЕНТУКИ",
+    "in_stock": 14,
+    "available": true
+  },
+  {
+    "id": 453001,
+    "name": "Сок RICH Апельсиновый, 0.2л",
+    "regular_price": 13999,
+    "promo_price": 10999,
+    "brand": "RICH",
+    "in_stock": 3,
+    "available": true
+  },
+  {
+    "id": 478071,
+    "name": "Сок САДЫ ПРИДОНЬЯ Яблоко, черная смородина осветленный восстановленный, 1л",
+    "regular_price": 13999,
+    "promo_price": 9999,
+    "brand": "САДЫ",
+    "in_stock": 5,
+    "available": true
+  },
+  {
+    "id": 73074,
+    "name": "Вода минеральная РЫЧАЛ-СУ газированная, 1л",
+    "regular_price": 12999,
+    "promo_price": 12999,
+    "brand": "РЫЧАЛ-СУ",
+    "in_stock": 27,
+    "available": true
+  },
+  {
+    "id": 588254,
+    "name": "Вода минеральная МТАБИ природная лечебно-столовая газированная \r\nНагутская-26, 0.45л",
+    "regular_price": 8499,
+    "promo_price": 7999,
+    "brand": "МТАБИ",
+    "in_stock": 11,
+    "available": true
+  },
+  {
+    "id": 166409,
+    "name": "Нектар 365 ДНЕЙ Яблочно-персиковый, 0.2л",
+    "regular_price": 1599,
+    "promo_price": 1599,
+    "brand": "ДНЕЙ",
+    "in_stock": 8,
+    "available": true
+  },
+  {
+    "id": 501936,
+    "name": "Напиток энергетический ADRENALINE Juicy Апельсиновая энергия газированный, 0.449л",
+    "regular_price": 11999,
+    "promo_price": 11999,
+    "brand": "ADRENALINE",
+    "in_stock": 17,
+    "available": true
+  },
+  {
+    "id": 725413,
+    "name": "Смузи ЛЕНТА LIFE Банан, маракуйя, 0.3л",
+    "regular_price": 13999,
+    "promo_price": 11999,
+    "brand": "ЛЕНТА",
+    "in_stock": 26,
+    "available": true
+  },
+  {
+    "id": 374082,
+    "name": "Вода минеральная JEVEA Crystalnaya природная столовая газированная, 1л",
+    "regular_price": 12499,
+    "promo_price": 10499,
+    "brand": "JEVEA",
+    "in_stock": 2,
+    "available": true
+  },
+  {
+    "id": 716477,
+    "name": "Напиток сокосодержащий ДОБРЫЙ Апельсин, мандарин, 2л",
+    "regular_price": 26999,
+    "promo_price": 20499,
+    "brand": "ДОБРЫЙ",
+    "in_stock": 14,
+    "available": true
+  },
+  {
+    "id": 792666,
+    "name": "Напиток БОЧКАРИ Кола классик сильногазированный, 0.5л",
+    "regular_price": 8999,
+    "promo_price": 6999,
+    "brand": "БОЧКАРИ",
+    "in_stock": 12,
+    "available": true
+  },
+  {
+    "id": 884566,
+    "name": "Напиток фруктовый чай SEEIN со вкусом лимона и апельсина, 0.4л",
+    "regular_price": 19999,
+    "promo_price": 16999,
+    "brand": "SEEIN",
+    "in_stock": 12,
+    "available": true
+  },
+  {
+    "id": 92183,
+    "name": "Сок J7 Апельсин с мякотью, 0.97л",
+    "regular_price": 29999,
+    "promo_price": 26999,
+    "brand": "J7",
+    "in_stock": 6,
+    "available": true
+  },
+  {
+    "id": 864085,
+    "name": "Вода ЧЕРНОГОЛОВКА артезианская негазированная, 0.25л",
+    "regular_price": 3799,
+    "promo_price": 2999,
+    "brand": "ЧЕРНОГОЛОВКА",
+    "in_stock": 10,
+    "available": true
+  },
+  {
+    "id": 516159,
+    "name": "Сок охлажденный J7 Апельсин с мякотью, 850мл",
+    "regular_price": 29999,
+    "promo_price": 24499,
+    "brand": "J7",
+    "in_stock": 9,
+    "available": true
+  },
+  {
+    "id": 883229,
+    "name": "Лимонад ЧЕРНОГОЛОВКА Мохито Клубника, манго, 0.45л",
+    "regular_price": 8999,
+    "promo_price": 7499,
+    "brand": "ЧЕРНОГОЛОВКА",
+    "in_stock": 36,
+    "available": true
+  },
+  {
+    "id": 520638,
+    "name": "Напиток ЧЕРНОГОЛОВКА Крюшон сильногазированный, 2л",
+    "regular_price": 17999,
+    "promo_price": 13999,
+    "brand": "ЧЕРНОГОЛОВКА",
+    "in_stock": 17,
+    "available": true
+  },
+  {
+    "id": 59407,
+    "name": "Пиво светлое безалкогольное CLAUSTHALER Original фильтрованное пастеризованное, не более 0,5%, 0,33л",
+    "regular_price": 15999,
+    "promo_price": 13999,
+    "brand": "CLAUSTHALER",
+    "in_stock": 44,
+    "available": true
+  },
+  {
+    "id": 638124,
+    "name": "Напиток ЧЕРНОГОЛОВКА Кола сильногазированный, 2л",
+    "regular_price": 17999,
+    "promo_price": 13999,
+    "brand": "ЧЕРНОГОЛОВКА",
+    "in_stock": 55,
+    "available": true
+  },
+  {
+    "id": 743967,
+    "name": "Пиво светлое безалкогольное CLAUSTHALER Грейпфрут фильтрованное пастеризованное, 0.33л",
+    "regular_price": 19999,
+    "promo_price": 16999,
+    "brand": "CLAUSTHALER",
+    "in_stock": 21,
+    "available": true
+  },
+  {
+    "id": 70592,
+    "name": "Сок САДЫ ПРИДОНЬЯ Яблоко прямого отжима, с 4 месяцев, 200мл",
+    "regular_price": 4999,
+    "promo_price": 2699,
+    "brand": "САДЫ",
+    "in_stock": 24,
+    "available": true
+  },
+  {
+    "id": 618589,
+    "name": "Сок GOODINI Мандарин, апельсин восстановленный с мякотью, 0.75л",
+    "regular_price": 22999,
+    "promo_price": 18999,
+    "brand": "GOODINI",
+    "in_stock": 7,
+    "available": true
+  },
+  {
+    "id": 659398,
+    "name": "Напиток ДОБРЫЙ Лимон, лайм сильногазированный, 0.5л",
+    "regular_price": 10499,
+    "promo_price": 7999,
+    "brand": "ДОБРЫЙ",
+    "in_stock": 12,
+    "available": true
+  },
+  {
+    "id": 792663,
+    "name": "Сок ОЧАКОВО Goodini Томат восстановленный с мякотью, 0.75л",
+    "regular_price": 19999,
+    "promo_price": 16999,
+    "brand": "ОЧАКОВО",
+    "in_stock": 3,
+    "available": true
+  }
+]
