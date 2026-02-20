@@ -55,7 +55,7 @@ def is_valid_water_price(item, max_price_rubles=1000):
     
     # Если хотя бы одна цена превышает лимит - товар подозрительный
     if regular_price_rubles > max_price_rubles or promo_price_rubles > max_price_rubles:
-        print(f"⚠️  Подозрительная цена для воды: {item.get('name')}")
+        print(f"  Подозрительная цена для воды: {item.get('name')}")
         print(f"   Обычная цена: {regular_price_rubles:.2f} ₽, Промо: {promo_price_rubles:.2f} ₽")
         return False
     
@@ -126,11 +126,11 @@ def parse_spb_result(json_file, only_in_stock=True, validate_prices=True, min_st
         parsed_items.append(parsed_item)
     
     if filtered_count > 0:
-        print(f"🔍 Отфильтровано товаров с некорректными ценами: {filtered_count}")
+        print(f"Отфильтровано товаров с некорректными ценами: {filtered_count}")
     if blocked_count > 0:
-        print(f"🚫 Отфильтровано заблокированных товаров: {blocked_count}")
+        print(f"Отфильтровано заблокированных товаров: {blocked_count}")
     if low_stock_count > 0:
-        print(f"📦 Отфильтровано товаров с малым запасом (< {min_stock}): {low_stock_count}")
+        print(f"Отфильтровано товаров с малым запасом (< {min_stock}): {low_stock_count}")
     
     return parsed_items
 
